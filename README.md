@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/497693/Test/_apis/build/status/latheef35.pipelines-python-django?branchName=master)](https://dev.azure.com/497693/Test/_build/latest?definitionId=3&branchName=master)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
